@@ -1,0 +1,58 @@
+.schedules {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.schedules-title {
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
+.add-schedules {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #ffecf0;
+    padding: 4rem 6rem;
+    border-radius: 0.75rem;
+    margin-bottom: 2rem;
+}
+
+.schedules-form {
+    margin-top: 1rem;
+    width: 400px;
+}
+
+.schedules-btn {
+    width: 400px;
+    border: none;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    background-color: blueviolet;
+    color: white;
+}
+
+.show-schedules {
+    width: 1200px;
+    height: auto;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #ffecf0;
+    border-radius: 0.75rem;
+    padding: 4rem 6rem;
+    row-gap: 1rem;
+    text-align: center;
+}
+
+.show-schedules-container {
+    width: 1100px;
+}

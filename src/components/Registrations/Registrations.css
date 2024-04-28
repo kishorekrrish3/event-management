@@ -1,0 +1,58 @@
+.registrations {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.registrations-title {
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
+.add-registrations {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #DDF8E8;
+    padding: 4rem 6rem;
+    border-radius: 0.75rem;
+    margin-bottom: 2rem;
+}
+
+.registrations-form {
+    margin-top: 1rem;
+    width: 400px;
+}
+
+.registrations-btn {
+    width: 400px;
+    border: none;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    background-color: blueviolet;
+    color: white;
+}
+
+.show-registrations {
+    width: 960px;
+    height: auto;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #DDF8E8;
+    border-radius: 0.75rem;
+    padding: 4rem 6rem;
+    row-gap: 1rem;
+    text-align: center;
+}
+
+.show-registrations-container {
+    width: 860px;
+}

@@ -1,0 +1,58 @@
+.venues {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.venues-title {
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
+.add-venues {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #edddf8;
+    padding: 4rem 6rem;
+    border-radius: 0.75rem;
+    margin-bottom: 2rem;
+}
+
+.venues-form {
+    margin-top: 1rem;
+    width: 400px;
+}
+
+.venues-btn {
+    width: 400px;
+    border: none;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    background-color: blueviolet;
+    color: white;
+}
+
+.show-venues {
+    width: 1200px;
+    height: auto;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #edddf8;
+    border-radius: 0.75rem;
+    padding: 4rem 6rem;
+    row-gap: 1rem;
+    text-align: center;
+}
+
+.show-venues-container {
+    width: 1100px;
+}
